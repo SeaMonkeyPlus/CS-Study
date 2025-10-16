@@ -25,7 +25,7 @@ OSI 중 1계층에 대한 내용이다
 - **FSK**: 주파수 변조
 - **PSK**: 위상 변조
     
-    ![image 1.png](image_1.png)
+    ![image 1.png](./image/img_physical_1.png)
     
 
 ## 전송 모드
@@ -42,7 +42,7 @@ OSI 중 1계층에 대한 내용이다
 - UTP 케이블 (가장 보편적, 100m 제한)
 - 광케이블 (빠르고 장거리, 비쌈)
     
-    ![image 2.png](image_2.png)
+    ![image 2.png](./image/img_physical_2.png)
     
 
 ### 무선
@@ -58,7 +58,7 @@ OSI 중 1계층에 대한 내용이다
 - **FTTB**: 건물까지 (10Gbps, **한국 대부분**)
 - **FTTH**: 집 안까지 (100Gbps+, 신축)
     
-    ![image 3.png](image_3.png)
+    ![image 3.png](./image/img_physical_3.png)
     
 
 ## 네트워크 토폴로지
@@ -68,7 +68,7 @@ OSI 중 1계층에 대한 내용이다
 - **스타**: 중앙 장치에 모든 노드 연결 (현대 이더넷, 한 노드 고장해도 영향 없음)
 - **메시**: 모든 노드가 서로 연결 (안정적)
     
-    ![image 4.png](image_4.png)
+    ![image 4.png](./image/img_physical_4.png)
     
 
 ## 물리계층 장비
