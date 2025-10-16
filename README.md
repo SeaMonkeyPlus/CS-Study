@@ -42,4 +42,5 @@
 | 김정우 | [@3957ki](https://github.com/3957ki)       |
 | 백승훈 | [@Shbak111](https://github.com/Shbak111)   |
 | 이진호 | [@binaryarc](https://github.com/binaryarc) |
+| 장현정 | [@hyunddo](https://github.com/hyunddo)     |
 | 전희성 | [@Airdexx](https://github.com/Airdexx)     |
