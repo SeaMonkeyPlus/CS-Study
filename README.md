@@ -17,9 +17,14 @@
 
 ## ✏️ Data Structure
 
+- [인덱스에 대하여](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Database/Index.md)
+
 ## ✏️ Database
 
 ## ✏️ Design Pattern
+
+- [디자인 패턴 요약](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Design%20Pattern/summary/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4%2028d70798acca809ca526cddd6e08fec8.md)
+- [MVC 패턴이란?](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Design%20Pattern/MVC.md)
 
 ## ✏️ Language
 
@@ -44,3 +49,4 @@
 | 이진호 | [@binaryarc](https://github.com/binaryarc) |
 | 장현정 | [@hyunddo](https://github.com/hyunddo)     |
 | 전희성 | [@Airdexx](https://github.com/Airdexx)     |
+| 최영환 | [@dlsxj101](https://github.com/dlsxj101)   |
