@@ -17,9 +17,9 @@
 
 ## ✏️ Data Structure
 
-- [인덱스에 대하여](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Database/Index.md)
-
 ## ✏️ Database
+
+- [인덱스에 대하여](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Database/Index.md)
 
 ## ✏️ Design Pattern
 
@@ -28,13 +28,21 @@
 
 ## ✏️ Language
 
+- **Java**
+  - [JVM이란?](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Language/Java/JVM.md)
+
 ## ✏️ Machine Learning
 
 ## ✏️ Network
 
+- [OSI 1계층 - 물리계층](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Network/OSI_%EB%AC%BC%EB%A6%AC%EA%B3%84%EC%B8%B5.md)
+- [WS와 WAS에 대하여](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Network/WS%EC%99%80%20WAS.md)
+
 ## ✏️ Software Engineering
 
 ## ✏️ Spring
+
+- [JPA와 N+1 문제](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Spring/JPA/JPA_N%2B1.md)
 
 ## ✏️ Web
 
