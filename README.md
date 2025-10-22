@@ -45,6 +45,8 @@
 
 ## ✏️ Software Engineering
 
+- [TDD와 BDD](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Software%20Engineering/TDD%EC%99%80%20BDD.md)
+
 ## ✏️ Spring
 
 - [JPA와 N+1 문제](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Spring/JPA/JPA_N%2B1.md)
