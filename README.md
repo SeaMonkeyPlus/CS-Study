@@ -13,7 +13,7 @@
 
 ## ✏️ Algorithm
 
-## ✏️ Computer Science
+## ✏️ Computer Structure
 
 ## ✏️ Data Structure
 
@@ -36,7 +36,12 @@
 ## ✏️ Network
 
 - [OSI 1계층 - 물리계층](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Network/OSI_%EB%AC%BC%EB%A6%AC%EA%B3%84%EC%B8%B5.md)
+- [OSI 2계층 - 데이터링크계층](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Network/OSI_2%EA%B3%84%EC%B8%B5.md)
 - [WS와 WAS에 대하여](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Network/WS%EC%99%80%20WAS.md)
+
+## ✏️ OS
+
+- [OS에 대하여](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/OS/OS.md)
 
 ## ✏️ Software Engineering
 
