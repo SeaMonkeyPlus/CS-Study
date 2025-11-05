@@ -13,6 +13,7 @@
 
 ## ✏️ Computer Structure
 - 📄 [멀티스레드](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Computer%20Structure/%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C.md)
+- 📄 [컴퓨터의 핵심 부품](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Computer%20Structure/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%20%ED%95%B5%EC%8B%AC%20%EB%B6%80%ED%92%88.md)
 
 ## ✏️ Data Structure
 - 📄 [Database에서 사용되는 자료구조](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Data%20Structure/Database%EC%97%90%EC%84%9C%20%EC%82%AC%EC%9A%A9%EB%90%98%EB%8A%94%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.md)
@@ -35,6 +36,9 @@
   - 📄 [JVM](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Language/Java/JVM.md)
 
 ## ✏️ Machine Learning
+
+- 📁 **신경망 학습**
+  - 📄 [신경망 학습](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Machine%20Learning/%EC%8B%A0%EA%B2%BD%EB%A7%9D%20%ED%95%99%EC%8A%B5/%EC%8B%A0%EA%B2%BD%EB%A7%9D%20%ED%95%99%EC%8A%B5.md)
 - 📄 [퍼셉트론과 뉴럴 네트워크](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Machine%20Learning/%ED%8D%BC%EC%85%89%ED%8A%B8%EB%A1%A0%EA%B3%BC%20%EB%89%B4%EB%9F%B4%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md)
 
 ## ✏️ Network
@@ -64,6 +68,7 @@
 
 ## ✏️ Web
 - 📄 [REST-API](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Web/REST-API.md)
+- 📄 [로그인 구현 방법 Session과 Token](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Web/%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EA%B5%AC%ED%98%84%20%EB%B0%A9%EB%B2%95%20Session%EA%B3%BC%20Token.md)
 
 ## 👨‍💻 스터디원
 
