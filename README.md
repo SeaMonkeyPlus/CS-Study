@@ -1,7 +1,5 @@
 # CS-Study
 
----
-
 ## ✨ Rule
 
 - 스터디는 매주 월, 수, 금 21:00 진행
@@ -14,46 +12,58 @@
 ## ✏️ Algorithm
 
 ## ✏️ Computer Structure
+- 📄 [멀티스레드](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Computer%20Structure/%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C.md)
 
 ## ✏️ Data Structure
+- 📄 [Database에서 사용되는 자료구조](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Data%20Structure/Database%EC%97%90%EC%84%9C%20%EC%82%AC%EC%9A%A9%EB%90%98%EB%8A%94%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.md)
 
 ## ✏️ Database
-
-- [인덱스에 대하여](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Database/Index.md)
+- 📄 [Index](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Database/Index.md)
+- 📄 [RDB](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Database/RDB.md)
+- 📄 [Redis](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Database/Redis.md)
+- 📄 [메시지 큐 (Kafka, RabbitMQ 등)](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Database/%EB%A9%94%EC%8B%9C%EC%A7%80%20%ED%81%90%20%28Kafka%2C%20RabbitMQ%20%EB%93%B1%29.md)
 
 ## ✏️ Design Pattern
+- 📄 [MVC](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Design%20Pattern/MVC.md)
 
-- [디자인 패턴 요약](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Design%20Pattern/summary/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4%2028d70798acca809ca526cddd6e08fec8.md)
-- [MVC 패턴이란?](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Design%20Pattern/MVC.md)
+- 📁 **summary**
+  - 📄 [디자인 패턴 28d70798acca809ca526cddd6e08fec8](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Design%20Pattern/summary/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4%2028d70798acca809ca526cddd6e08fec8.md)
 
 ## ✏️ Language
 
-- **Java**
-  - [JVM이란?](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Language/Java/JVM.md)
+- 📁 **Java**
+  - 📄 [JVM](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Language/Java/JVM.md)
 
 ## ✏️ Machine Learning
+- 📄 [퍼셉트론과 뉴럴 네트워크](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Machine%20Learning/%ED%8D%BC%EC%85%89%ED%8A%B8%EB%A1%A0%EA%B3%BC%20%EB%89%B4%EB%9F%B4%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md)
 
 ## ✏️ Network
-
-- [OSI 1계층 - 물리계층](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Network/OSI_1%EA%B3%84%EC%B8%B5.md)
-- [OSI 2계층 - 데이터링크계층](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Network/OSI_2%EA%B3%84%EC%B8%B5.md)
-- [WS와 WAS에 대하여](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Network/WS%EC%99%80%20WAS.md)
+- 📄 [k8s](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Network/k8s.md)
+- 📄 [OSI_네트워크계층](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Network/OSI_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EA%B3%84%EC%B8%B5.md)
+- 📄 [OSI_데이터링크계층](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Network/OSI_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A7%81%ED%81%AC%EA%B3%84%EC%B8%B5.md)
+- 📄 [OSI_물리계층](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Network/OSI_%EB%AC%BC%EB%A6%AC%EA%B3%84%EC%B8%B5.md)
+- 📄 [OSI_세션계층](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Network/OSI_%EC%84%B8%EC%85%98%EA%B3%84%EC%B8%B5.md)
+- 📄 [OSI_응용계층](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Network/OSI_%EC%9D%91%EC%9A%A9%EA%B3%84%EC%B8%B5.md)
+- 📄 [OSI_전송계층](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Network/OSI_%EC%A0%84%EC%86%A1%EA%B3%84%EC%B8%B5.md)
+- 📄 [OSI_표현계층](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Network/OSI_%ED%91%9C%ED%98%84%EA%B3%84%EC%B8%B5.md)
+- 📄 [WS와 WAS](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Network/WS%EC%99%80%20WAS.md)
+- 📄 [로드_밸런싱](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Network/%EB%A1%9C%EB%93%9C_%EB%B0%B8%EB%9F%B0%EC%8B%B1.md)
 
 ## ✏️ OS
-
-- [OS에 대하여](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/OS/OS.md)
+- 📄 [OS](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/OS/OS.md)
 
 ## ✏️ Software Engineering
-
-- [TDD와 BDD](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Software%20Engineering/TDD%EC%99%80%20BDD.md)
+- 📄 [TDD와 BDD](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Software%20Engineering/TDD%EC%99%80%20BDD.md)
 
 ## ✏️ Spring
+- 📄 [Filter와 Interceptor에 대하여](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Spring/Filter%EC%99%80%20Interceptor%EC%97%90%20%EB%8C%80%ED%95%98%EC%97%AC.md)
 
-- [JPA와 N+1 문제](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Spring/JPA/JPA_N%2B1.md)
+- 📁 **JPA**
+  - 📄 [JPA_N+1](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Spring/JPA/JPA_N%2B1.md)
+- 📄 [JUnit](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Spring/JUnit.md)
 
 ## ✏️ Web
-
-- [REST API란?](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Web/REST-API.md)
+- 📄 [REST-API](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Web/REST-API.md)
 
 ## 👨‍💻 스터디원
 
