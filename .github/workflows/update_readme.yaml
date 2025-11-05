@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # 🧪 테스트용: 10분마다 실행
+    - cron: '0 15 * * 1,3,5' # 월/수/금 자정 실행(KST 기준)
   workflow_dispatch:  # 수동 실행도 가능
 
 jobs:
