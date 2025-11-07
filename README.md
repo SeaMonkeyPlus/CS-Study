@@ -36,6 +36,7 @@
   - 📄 [JVM](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Language/Java/JVM.md)
 
 ## ✏️ Machine Learning
+- 📄 [CNN](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Machine%20Learning/CNN.md)
 
 - 📁 **신경망 학습**
   - 📄 [신경망 학습](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Machine%20Learning/%EC%8B%A0%EA%B2%BD%EB%A7%9D%20%ED%95%99%EC%8A%B5/%EC%8B%A0%EA%B2%BD%EB%A7%9D%20%ED%95%99%EC%8A%B5.md)
