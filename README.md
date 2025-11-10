@@ -10,6 +10,7 @@
 - 다음에 발표할 CS 주제를 각자 Discord 스레드에 작성하여 공유하기
 
 ## ✏️ Algorithm
+- 📄 [CCW](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Algorithm/CCW.md)
 
 ## ✏️ Computer Structure
 - 📄 [멀티스레드](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Computer%20Structure/%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C.md)
@@ -57,8 +58,12 @@
 ## ✏️ OS
 - 📄 [OS](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/OS/OS.md)
 
+## ✏️ Security
+- 📄 [HashiCorp Vault](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Security/HashiCorp%20Vault.md)
+
 ## ✏️ Software Engineering
 - 📄 [TDD와 BDD](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Software%20Engineering/TDD%EC%99%80%20BDD.md)
+- 📄 [단위 테스트와 통합 테스트](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Software%20Engineering/%EB%8B%A8%EC%9C%84%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%99%80%20%ED%86%B5%ED%95%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8.md)
 
 ## ✏️ Spring
 - 📄 [Filter와 Interceptor에 대하여](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Spring/Filter%EC%99%80%20Interceptor%EC%97%90%20%EB%8C%80%ED%95%98%EC%97%AC.md)
