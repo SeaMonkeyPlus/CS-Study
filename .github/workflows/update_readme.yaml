@@ -1,0 +1,45 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 15 * * 1,3,5' # 월/수/금 자정 실행(KST 기준)
+  workflow_dispatch:  # 수동 실행도 가능
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write  # README 수정 권한
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      
+      - name: Update README
+        run: python update_readme.py
+      
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --quiet README.md; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "📝 README.md has no changes - skipping commit"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "✅ README.md has been updated"
+          fi
+      
+      - name: Commit and Push
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "🔄 $(date +'%y-%m-%d') README.md 갱신"
+          git push
