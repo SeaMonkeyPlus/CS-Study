@@ -11,6 +11,7 @@
 
 ## ✏️ Algorithm
 - 📄 [CCW](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Algorithm/CCW.md)
+- 📄 [MergeSort](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Algorithm/MergeSort.md)
 
 ## ✏️ Computer Structure
 - 📄 [멀티스레드](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Computer%20Structure/%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C.md)
