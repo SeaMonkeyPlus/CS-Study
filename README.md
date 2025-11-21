@@ -11,7 +11,9 @@
 
 ## ✏️ Algorithm
 - 📄 [CCW](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Algorithm/CCW.md)
+- 📄 [FenwickTree](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Algorithm/FenwickTree.md)
 - 📄 [MergeSort](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Algorithm/MergeSort.md)
+- 📄 [페르마의 소정리, 모듈로 곱셈 역원](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Algorithm/%ED%8E%98%EB%A5%B4%EB%A7%88%EC%9D%98%20%EC%86%8C%EC%A0%95%EB%A6%AC%2C%20%EB%AA%A8%EB%93%88%EB%A1%9C%20%EA%B3%B1%EC%85%88%20%EC%97%AD%EC%9B%90.md)
 
 ## ✏️ Computer Structure
 - 📄 [멀티스레드](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Computer%20Structure/%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C.md)
