@@ -58,6 +58,7 @@
 
 ## ✏️ OS
 - 📄 [OS](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/OS/OS.md)
+- 📄 [교착상태](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/OS/%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C.md)
 
 ## ✏️ Security
 - 📄 [HashiCorp Vault](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Security/HashiCorp%20Vault.md)
