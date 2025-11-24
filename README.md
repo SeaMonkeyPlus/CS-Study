@@ -44,6 +44,7 @@
 
 - 📁 **신경망 학습**
   - 📄 [신경망 학습](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Machine%20Learning/%EC%8B%A0%EA%B2%BD%EB%A7%9D%20%ED%95%99%EC%8A%B5/%EC%8B%A0%EA%B2%BD%EB%A7%9D%20%ED%95%99%EC%8A%B5.md)
+- 📄 [어텐션](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Machine%20Learning/%EC%96%B4%ED%85%90%EC%85%98.md)
 - 📄 [퍼셉트론과 뉴럴 네트워크](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Machine%20Learning/%ED%8D%BC%EC%85%89%ED%8A%B8%EB%A1%A0%EA%B3%BC%20%EB%89%B4%EB%9F%B4%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md)
 
 ## ✏️ Network
