@@ -79,6 +79,9 @@
 - 📄 [JUnit](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Spring/JUnit.md)
 
 ## ✏️ Web
+
+- 📁 **Frontend**
+  - 📄 [네트워킹(Part_1)](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Web/Frontend/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%8F%99%EC%9E%91%20%EC%9B%90%EB%A6%AC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9%28Part_1%29.md)
 - 📄 [REST-API](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Web/REST-API.md)
 - 📄 [로그인 구현 방법 Session과 Token](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Web/%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EA%B5%AC%ED%98%84%20%EB%B0%A9%EB%B2%95%20Session%EA%B3%BC%20Token.md)
 
