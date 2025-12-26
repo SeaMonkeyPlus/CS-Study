@@ -50,6 +50,7 @@
 - 📄 [프롬프트 엔지니어링](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Machine%20Learning/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81.md)
 
 ## ✏️ Network
+- 📄 [gRPC](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Network/gRPC.md)
 - 📄 [k8s](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Network/k8s.md)
 - 📄 [OSI_네트워크계층](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Network/OSI_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EA%B3%84%EC%B8%B5.md)
 - 📄 [OSI_데이터링크계층](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Network/OSI_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A7%81%ED%81%AC%EA%B3%84%EC%B8%B5.md)
@@ -70,6 +71,7 @@
 
 ## ✏️ Software Engineering
 - 📄 [TDD와 BDD](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Software%20Engineering/TDD%EC%99%80%20BDD.md)
+- 📄 [Update Process](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Software%20Engineering/Update%20Process.md)
 - 📄 [단위 테스트와 통합 테스트](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Software%20Engineering/%EB%8B%A8%EC%9C%84%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%99%80%20%ED%86%B5%ED%95%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8.md)
 
 ## ✏️ Spring
@@ -78,6 +80,8 @@
 - 📁 **JPA**
   - 📄 [JPA_N+1](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Spring/JPA/JPA_N%2B1.md)
 - 📄 [JUnit](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Spring/JUnit.md)
+- 📄 [Spring Actuator](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Spring/Spring%20Actuator.md)
+- 📄 [Swagger vs Spring REST Docs](https://github.com/SeaMonkeyPlus/CS-Study/blob/main/Spring/Swagger%20vs%20Spring%20REST%20Docs.md)
 
 ## ✏️ Web
 
